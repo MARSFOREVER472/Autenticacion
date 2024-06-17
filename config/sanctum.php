@@ -46,7 +46,7 @@ return [
     |
     */
 
-    'expiration' => 60,
+    'expiration' => 60, /* Tiempo de expiración estimativa del token a añadir.
 
     /*
     |--------------------------------------------------------------------------
