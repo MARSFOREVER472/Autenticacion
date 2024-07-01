@@ -19,7 +19,7 @@
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-_Laravel is accessible, powerful, and provides tools required for large, robust applications._
+**_Laravel is accessible, powerful, and provides tools required for large, robust applications._**
 
 ## Learning Laravel
 
