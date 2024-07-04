@@ -46,7 +46,7 @@
 - **[_DevSquad_](https://devsquad.com)**
 - **[_Curotec_](https://www.curotec.com/services/technologies/laravel/)**
 - **[_OP.GG_](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[_WebReinvent_](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
 ## Contributing
