@@ -15,7 +15,7 @@
 - [**_Powerful dependency injection container_**](https://laravel.com/docs/container).
 - **_Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage._**
 - **_Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent)._**
-- _Database agnostic [schema migrations](https://laravel.com/docs/migrations)._
+- **_Database agnostic [schema migrations](https://laravel.com/docs/migrations)._**
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
