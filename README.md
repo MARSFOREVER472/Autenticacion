@@ -40,7 +40,7 @@
 - **[_Kirschbaum Development Group_](https://kirschbaumdevelopment.com)**
 - **[_64 Robots_](https://64robots.com)**
 - **[_Cubet Techno Labs_](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[_Cyber-Duck_](https://cyber-duck.co.uk)**
 - **[Many](https://www.many.co.uk)**
 - **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
 - **[DevSquad](https://devsquad.com)**
