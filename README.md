@@ -38,7 +38,7 @@
 - **[**_Vehikl_**](https://vehikl.com/)**
 - **[_Tighten Co._](https://tighten.co)**
 - **[_Kirschbaum Development Group_](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
+- **[_64 Robots_](https://64robots.com)**
 - **[Cubet Techno Labs](https://cubettech.com)**
 - **[Cyber-Duck](https://cyber-duck.co.uk)**
 - **[Many](https://www.many.co.uk)**
