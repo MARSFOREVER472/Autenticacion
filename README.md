@@ -36,7 +36,7 @@
 ### Premium Partners
 
 - **[**_Vehikl_**](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
+- **[_Tighten Co._](https://tighten.co)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
 - **[64 Robots](https://64robots.com)**
 - **[Cubet Techno Labs](https://cubettech.com)**
