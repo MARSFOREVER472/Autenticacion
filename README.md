@@ -44,7 +44,7 @@
 - **[_Many_](https://www.many.co.uk)**
 - **[_Webdock, Fast VPS Hosting_](https://www.webdock.io/en)**
 - **[_DevSquad_](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[_Curotec_](https://www.curotec.com/services/technologies/laravel/)**
 - **[OP.GG](https://op.gg)**
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
