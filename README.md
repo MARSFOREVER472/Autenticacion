@@ -57,7 +57,7 @@
 
 **_In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct)._**
 
-## Security Vulnerabilities
+## _Security Vulnerabilities_
 
 **_If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed._**
 
