@@ -41,7 +41,7 @@
 - **[_64 Robots_](https://64robots.com)**
 - **[_Cubet Techno Labs_](https://cubettech.com)**
 - **[_Cyber-Duck_](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
+- **[_Many_](https://www.many.co.uk)**
 - **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
 - **[DevSquad](https://devsquad.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
