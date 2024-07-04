@@ -47,7 +47,7 @@
 - **[_Curotec_](https://www.curotec.com/services/technologies/laravel/)**
 - **[_OP.GG_](https://op.gg)**
 - **[_WebReinvent_](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+- **[_Lendio_](https://lendio.com)**
 
 ## Contributing
 
