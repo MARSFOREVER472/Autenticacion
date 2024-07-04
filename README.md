@@ -17,7 +17,7 @@
 - **_Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent)._**
 - **_Database agnostic [schema migrations](https://laravel.com/docs/migrations)._**
 - [**_Robust background job processing_**](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [_Real-time event broadcasting_](https://laravel.com/docs/broadcasting).
 
 **_Laravel is accessible, powerful, and provides tools required for large, robust applications._**
 
