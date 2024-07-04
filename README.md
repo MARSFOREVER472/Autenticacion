@@ -49,7 +49,7 @@
 - **[_WebReinvent_](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[_Lendio_](https://lendio.com)**
 
-## Contributing
+## _Contributing_
 
 **_Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions)._**
 
