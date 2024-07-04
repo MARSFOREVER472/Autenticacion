@@ -42,7 +42,7 @@
 - **[_Cubet Techno Labs_](https://cubettech.com)**
 - **[_Cyber-Duck_](https://cyber-duck.co.uk)**
 - **[_Many_](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[_Webdock, Fast VPS Hosting_](https://www.webdock.io/en)**
 - **[DevSquad](https://devsquad.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
 - **[OP.GG](https://op.gg)**
