@@ -33,7 +33,7 @@
 
 **_We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell)._**
 
-### _Premium Partners_
+### **_Premium Partners_**
 
 - **[_Vehikl_](https://vehikl.com/)**
 - **[_Tighten Co._](https://tighten.co)**
